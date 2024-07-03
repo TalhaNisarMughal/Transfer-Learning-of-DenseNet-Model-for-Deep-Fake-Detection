@@ -1,0 +1,11 @@
+fastapi
+numpy
+opencv-python-headless
+matplotlib
+scikit-learn
+keras
+tensorflow
+imutils
+python-dotenv
+google-cloud-storage
+google-auth
